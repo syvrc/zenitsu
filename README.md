@@ -1,6 +1,6 @@
 ## zenitsu
 ![image](/assets/3d%20front.png)
-> I made a zenitsu keychain that has 2 LEDs for its eyes that fade on in the dark with a photoresistor and capacitor, it also has puh button to turn the LEDs off even in the dark.  
+> I made a zenitsu keychain that has 2 LEDs for its eyes that fade on in the dark with a photoresistor and capacitor, it also has a push button to turn the LEDs off even in the dark.  
 
 
 ## Schematic
@@ -8,9 +8,9 @@
 
 
 # PCB
-| PCB Front               |PCB Back                        |
-|:---------------------- :|:------------------------------:|
-|![image](/assets/pcb.png)|![image](/assets/pcb%20back.png)|
+| PCB Front               | PCB Back                         |
+|:-----------------------:|:--------------------------------:|
+|![image](/assets/pcb.png)|![image](/assets/pcb%20back.png)  |
 
 
 ## 3d render
@@ -20,10 +20,10 @@
 
 
 ## Features
-> it has photoresistor to control when LEDs will be on (dark) and off (light)  
+> it has photoresistor to control when LEDs will be: `ON (dark)` and `OFF (light)`  
 > capacitor for a light fade effect on the LEDs  
 > a toggle button switch to turn off LEDs even when dark outside  
-> its a KEYCHAIINNN!!!
+> its a KEYCHAINN !!!
 
 
 ## BOM

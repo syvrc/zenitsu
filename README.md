@@ -1,5 +1,7 @@
 ## zenitsu
-I made a zenitsu keychain that has 2 LEDs for its eyes that fade on in the dark with a photoresistor and capacitor, it also has puh button to turn the LEDs off even in the dark.
+> I made a zenitsu keychain that has 2 LEDs for its eyes that fade on in the dark with a photoresistor and capacitor, it also has puh button to turn the LEDs off even in the dark.
+![image](/assets/3d%20front.png)
+
 
 ## schematic
 
